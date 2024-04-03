@@ -8,7 +8,7 @@
           Hi there 👋 !
         </h1>
         <p class="font-bold text-blue-950 font-general-semibold text-2xl lowercase">I AM KUNDAI ANDREICK <br> CHIFWAFWA</p>
-        <span class="text-xl">A Full-Stack Developer & Design Enthusiast</span>
+        <span class="text-xl">A Full-Stack Developer </span>
       </div>
       <div class="fixed -ml-24 mb-10">
         <svg width="250px" height="200px" viewBox="0 0 368 349" version="1.1" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns="http://www.w3.org/2000/svg">
