@@ -20,6 +20,7 @@
                 >Full Name</label
               >
               <input
+              disabled
                 class="w-full px-5 py-2 border border-gray-300 dark:border-primary-dark border-opacity-50 text-primary-dark dark:text-secondary-light bg-ternary-light dark:bg-ternary-dark rounded-md shadow-sm text-md"
                 type="text"
                 id="name"
@@ -36,6 +37,7 @@
                 >Email</label
               >
               <input
+              disabled
                 class="w-full px-5 py-2 border border-gray-300 dark:border-primary-dark border-opacity-50 text-primary-dark dark:text-secondary-light bg-ternary-light dark:bg-ternary-dark rounded-md shadow-sm text-md"
                 type="email"
                 id="email"
@@ -51,6 +53,7 @@
                 for="subject"
                 >Subject</label
               ><input
+              disabled
                 class="w-full px-5 py-2 border border-gray-300 dark:border-primary-dark border-opacity-50 text-primary-dark dark:text-secondary-light bg-ternary-light dark:bg-ternary-dark rounded-md shadow-sm text-md"
                 type="text"
                 id="subject"
@@ -66,6 +69,7 @@
                 for="message"
                 >Message</label
               ><textarea
+              disabled
                 class="w-full px-5 py-2 border border-gray-300 dark:border-primary-dark border-opacity-50 text-primary-dark dark:text-secondary-light bg-ternary-light dark:bg-ternary-dark rounded-md shadow-sm text-md"
                 id="message"
                 name="message"
@@ -77,7 +81,7 @@
             <div
               class="font-general-medium w-40 px-4 py-2.5 text-white text-center font-medium tracking-wider bg-indigo-500 hover:bg-indigo-600 focus:ring-1 focus:ring-indigo-900 rounded-lg mt-6 duration-500"
             >
-              <button>Send Message</button>
+              <button disabled >Send Message</button>
             </div>
           </form>
         </div>
@@ -110,7 +114,7 @@
                   <polyline points="22,6 12,13 2,6"></polyline></svg></i
               ><span
                 class="text-lg mb-4 text-ternary-dark dark:text-ternary-light"
-                >kundai@origin6.co.zw</span
+                >kundaichifwafwa@gmail.com</span
               >
             </li>
             <li class="flex">
